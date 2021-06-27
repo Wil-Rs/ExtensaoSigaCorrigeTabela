@@ -1,0 +1,62 @@
+.bg-success {
+    background: #28A745;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.bg-info {
+    background: #17A2B8;
+    height: 50px;
+    text-align: center;
+}
+
+.bg-warning {
+    background: #FFC107;
+    text-align: center;
+}
+
+.text-dark {
+    color: #343A40;
+    text-align: center;
+}
+
+
+.text-white {
+    color: #ffffff;
+    text-align: center;
+}
+
+.text-info {
+    color: #17A2B8;
+    text-align: center;
+}
+
+.text-danger {
+    color: #DC3545;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.personalWidth100 {
+    width: 100%;
+}
+
+.tableAvaliacao {
+    width: 70%;
+    /* height: 150px; */
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.personalTable {
+    column-span: 2;
+}
