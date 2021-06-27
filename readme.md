@@ -13,8 +13,10 @@
 <h3>Como instalar: </h3>
 <p> Clone o repositório com: </p>
 <code>
-    git clone https://github.com/Wil-Rs/ExtesaoSigaCorrigeTabela.git
+    git clone https://github.com/Wil-Rs/ExtensaoSigaCorrigeTabela.git
 </code>
+
+<br />
 
 <p> Ira criar uma pasta no local que você clonou </p>
 <p>Depois: </p>
